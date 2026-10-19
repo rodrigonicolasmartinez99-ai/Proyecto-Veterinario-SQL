@@ -3,6 +3,13 @@ GO
 
 USE GestionVeterinaria;
 GO
+
+-- Trabajo Practico Integrador - Base de Datos II
+-- Sistema de Gestion Veterinaria
+-- Integrantes: Zulema Cruz y Rodrigo Martinez
+-- Script de creacion de la base de datos y sus tablas
+-- Primera prueba de Git y GitHub
+
 -- 1. PERSONA
 CREATE TABLE Persona (
     idPersona INT PRIMARY KEY,
